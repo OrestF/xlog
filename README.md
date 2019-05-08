@@ -1,3 +1,5 @@
+# THIS GEM IS TRANSFERED TO [COAXSOFT REPOSITORY](https://github.com/coaxsoft/passpartu)
+
 # Xlog v0.0.1
 
 Xlog - awesome logger for your Rails app. Logs everything you need in well-formatted view with timestamp, caller path and tags.
