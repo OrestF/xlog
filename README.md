@@ -1,4 +1,4 @@
-# THIS GEM IS TRANSFERED TO [COAXSOFT REPOSITORY](https://github.com/coaxsoft/passpartu)
+# THIS GEM IS TRANSFERED TO [COAXSOFT REPOSITORY](https://github.com/coaxsoft/xlog)
 
 # Xlog v0.0.1
 
